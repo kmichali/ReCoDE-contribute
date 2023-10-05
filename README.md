@@ -5,9 +5,9 @@ Doctoral and experienced masters students who are eligible to work as GTAs at Im
 
 
 ## What is a ReCoDE exemplar
-Think back to when you were a new postgraduate student. You were embarking on your MSc, MRes or PhD studies that were going to involve use of resaerch computing and data science. Your undergraduate study programme included some programming and you may have taken a few extra courses here and there. It is also very likely (unless you were a computing student) that you have done any larger programming project. You were about to embark on one - undertaking that involves synthesis of your programming, data science and general computing knowledge so far plus the fundamentals of good software engineering practice... and many other skills that you did not even know about.
+Think back to when you were a new postgraduate student. You were embarking on your MSc, MRes or PhD studies that were going to involve use of resaerch computing and data science. Your undergraduate study programme included some programming and you may have taken a few extra courses here and there. At this point, it was also very unlikely (unless you were a computing student) that you had completed any larger programming project. You were about to embark on one - undertaking that would involve synthesis of your programming, data science and general computing knowledge so far plus the fundamentals of good software engineering practice... and many other skills that you did not even know about.
 
-ReCoDE aims to bridge a gap between classroom education and completing a large degree project. ReCoDE exemplars are reasonably-sized end-to-end projects that contain the code accompanied by rich annotation for learning. The annotation explains common practice behind solving a particular task, decision making broken into digestable steps, and good software engineering practice.
+ReCoDE aims to bridge a gap between the classroom education and tackling a large degree project. ReCoDE exemplars are reasonably-sized end-to-end research computing or data science projects that contain programming code accompanied by rich annotation for learning. The annotation explains common practice behind solving a particular task, decision making broken into digestable steps, and good software engineering practice.
 
 Think about what would have helped you when you were at this point of your learning trajectory!
 
@@ -44,7 +44,7 @@ Often, students pich a project that they have already worked on before. That is 
 Your exemplar will be presented in a GitHub repository within the Imperial College organisation. The name will begin with ReCoDE-name-of-project. We usually present the project using MkDocs, so you will start with a template repository that is MkDocs ready. **Jay's contribution here**.
 
 ## Register your interest
-Plase fill out this form to pitch a project.
+Plase fill out this form to pitch an exemplar.
 
 ## Questions?
 Please email to [Katerina Michalickova](mailto:k.michalickova@imperial.ac.uk).
