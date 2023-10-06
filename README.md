@@ -42,8 +42,8 @@ It is very important that you complete your work at an even pace. The RCDS staff
 ## A commmon scenario
 Often, students pich a project that they have already worked on before. That is absolutely fine - you can use an existing code. You will use the allocated time to refactor, annotate and experiment with media.
 
-## Working with GitHub
-Your exemplar will be presented in a GitHub repository within the Imperial College organisation. The name will follow the template ReCoDE-name-of-project. We usually present the project using MkDocs, so you will start with a template repository that is MkDocs ready. **Jay's contribution on repository and software setup recommendations here**.
+## Working with GitHub and software setup
+Your exemplar will be stored in a GitHub repository within the Imperial College organisation. The name will follow the template ReCoDE-name-of-project. We usually present the repository using MkDocs, so you will start with a template repository that is MkDocs ready. **Jay's contribution on repository and software setup recommendations here**.
 
 ## Register your interest
 Plase fill out this form to pitch an exemplar.
