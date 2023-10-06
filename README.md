@@ -5,7 +5,7 @@ Doctoral and experienced masters students who are eligible to work as GTAs at Im
 
 
 ## What is a ReCoDE exemplar
-Think back to when you were a new postgraduate student. You were embarking on your MSc, MRes or PhD studies that were going to involve use of resaerch computing and data science. Your undergraduate study programme included some programming and you may have taken a few extra courses here and there. At this point, it was also very unlikely (unless you were a computing student) that you had completed any larger programming project. You were about to embark on one - undertaking that would involve synthesis of your programming, data science and general computing knowledge so far plus the fundamentals of good software engineering practice... and many other skills that you did not even know about.
+Think back to when you were a new postgraduate student. You were embarking on your MSc, MRes or PhD studies that were going to involve use of resaerch computing and data science. Your undergraduate study programme included some programming and you may have taken a few extra courses here and there. At this point, it was also very unlikely (unless you were a computing student) that you had completed any larger programming project. You were about to embark on one - undertaking that would involve synthesis of your programming, data science and general computing knowledge plus the fundamentals of good software engineering practice... and many other skills that you did not even know about.
 
 ReCoDE aims to bridge a gap between the classroom education and tackling a large degree project. ReCoDE exemplars are reasonably-sized end-to-end research computing or data science projects that contain programming code accompanied by rich annotation for learning. The annotation explains common practice behind solving a particular task, decision making broken into digestable steps, and good software engineering practice.
 
@@ -35,10 +35,12 @@ We are looking for fairly concise projects. The code should not exceed several h
 As a rule of thumb, working on the code is only half of the story. Work on the annotation should take at least 50% of the time. **Do not be afraid to be personal - this will make ReCoDE more relatable.**
 
 ## Terms of collaboration with [RCDS](https://www.imperial.ac.uk/students/academic-support/graduate-school/professional-development/doctoral-students/research-computing-data-science/courses/)
-You will work as a GTA receiving the higher rate pay (£34.08/hour). The project has to be completed in 45 hours evenly spread over three months. You will have weekly meeting with the RCDS staff (who will oversee the overall progress and learning annotation) and the [research software engineers](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/service-offering/research-software-engineering/) (who will oversee the technical quality of the code). The software engineering oversight may sound a bit intimidating - do not worry the engineers are here to help and this will be a great personalised learning opportunity for you.
+You will work as a GTA receiving the higher rate pay (£34.08/hour). The project has to be completed in 45 hours evenly spread over three months. You will have weekly meeting with the RCDS staff (who will oversee the overall progress and learning annotation) and the [research software engineers](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/service-offering/research-software-engineering/) (RSEs - who will oversee the technical quality of the code). The software engineering oversight may sound a bit intimidating - do not worry the engineers are here to help and this will be a great personalised learning opportunity for you.
+
+It is very important that you complete your work at an even pace. The RCDS staff and RSEs will not be able to accommodate last-minute contributions.
 
 ## A commmon scenario
-Often, students pich a project that they have already worked on before. That is absolutely fine - you can use an existing code. You will use the ReCoDE time to refactor, annotate and experiment with media.
+Often, students pich a project that they have already worked on before. That is absolutely fine - you can use an existing code. You will use the allocated time to refactor, annotate and experiment with media.
 
 ## Working with GitHub
 Your exemplar will be presented in a GitHub repository within the Imperial College organisation. The name will begin with ReCoDE-name-of-project. We usually present the project using MkDocs, so you will start with a template repository that is MkDocs ready. **Jay's contribution here**.
